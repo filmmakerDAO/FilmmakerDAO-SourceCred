@@ -1,1 +1,7 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+    "repositories": [
+        "midsummerDAO/midsummer_cred",
+        "midsummerDAO/call-for-help",
+        "midsummerDAO/humans_of_web3"
+    ]
+}
