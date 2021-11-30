@@ -1,6 +1,5 @@
 {
     "repositories": [
-        "midsummerDAO/midsummer_cred",
-        "midsummerDAO/call-for-help"
+        "midsummerDAO/midsummer_cred"
     ]
 }
